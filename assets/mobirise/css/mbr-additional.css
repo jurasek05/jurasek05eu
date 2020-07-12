@@ -1182,43 +1182,43 @@ section.lazy-placeholder:after {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-rWO1ieHddo {
+.cid-s4z5SCG4bp {
   padding-top: 45px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
-  .cid-rWO1ieHddo .content {
+  .cid-s4z5SCG4bp .content {
     text-align: center;
   }
-  .cid-rWO1ieHddo .content > div:not(:last-child) {
+  .cid-s4z5SCG4bp .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rWO1ieHddo .media-wrap {
+  .cid-s4z5SCG4bp .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-rWO1ieHddo .media-wrap .mbr-iconfont-logo {
+.cid-s4z5SCG4bp .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-rWO1ieHddo .media-wrap img {
+.cid-s4z5SCG4bp .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-rWO1ieHddo .footer-lower .copyright {
+  .cid-s4z5SCG4bp .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rWO1ieHddo .footer-lower hr {
+.cid-s4z5SCG4bp .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rWO1ieHddo .footer-lower .social-list {
+.cid-s4z5SCG4bp .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1227,24 +1227,24 @@ section.lazy-placeholder:after {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-rWO1ieHddo .footer-lower .social-list .mbr-iconfont-social {
+.cid-s4z5SCG4bp .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rWO1ieHddo .footer-lower .social-list .soc-item {
+.cid-s4z5SCG4bp .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rWO1ieHddo .footer-lower .social-list a {
+.cid-s4z5SCG4bp .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rWO1ieHddo .footer-lower .social-list a:hover {
+.cid-s4z5SCG4bp .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rWO1ieHddo .footer-lower .social-list {
+  .cid-s4z5SCG4bp .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
