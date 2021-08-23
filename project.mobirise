@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "jurasek05",
-    "currentPage": "novinky.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 148,
-    "versionPublish": "4.12.4",
+    "versionPublish": "5.4.1",
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/trikologo-128x128.png",
