@@ -1,4 +1,10 @@
 RewriteEngine On
+## Redirect index.html to /
+RewriteBase /
+RewriteRule ^index\.html$ / [NC,R,L]
+## Make URL available without .html
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)\.html$ /$1 [L,R=301] 
+RewriteRule ^([^.]+)$ $1.html [NC,L]
+## Redirect .html to non .html urls
+RewriteCond %{THE_REQUEST} \.html
+RewriteRule ^(.*)\.html$ /$1 [R=301,L]
